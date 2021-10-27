@@ -3,8 +3,8 @@ import time
 from threading import Thread, Lock
 from upbitpy import Upbitpy
 
-access_key = "0bRrps8yJa7NolmhKI11vdT0RnBCVpDFzvjjo8e4"
-secret_key = "5wasE2xSxPU5vrLmAfPYU8pfWNyhHi5yCu2c0ENu"
+access_key = 
+secret_key = 
 upbit = pyupbit.Upbit(access_key, secret_key)
 
 lock=Lock()
